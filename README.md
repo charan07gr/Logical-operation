@@ -82,7 +82,13 @@ delay(1000); </br>
 
 ## CIRCUIT DIAGRAM:
 
+![image](https://user-images.githubusercontent.com/132322854/236751850-0a0ec443-a98d-483d-8609-a72818a83634.png)
+
+
 ## OUTPUT:
+
+![Uploading image.png…]()
+
 
 ## RESULT:
 
