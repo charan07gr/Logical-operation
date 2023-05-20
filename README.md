@@ -87,7 +87,8 @@ delay(1000); </br>
 
 ## OUTPUT:
 
-![Uploading image.png…]()
+![image](https://github.com/charan07gr/Logical-operation/assets/132322854/0c46f8e7-c126-4a0d-90db-24d514cbcc11)
+
 
 
 ## RESULT:
